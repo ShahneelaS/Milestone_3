@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 const products = [
   { id: 1, name: 'Library stool chair', price: 20, image: '/images/Library stool chair.png', description: 'Library stool chair' },
   { id: 2, name: 'Wing Chair', price: 30, image: '/images/Wing Chair.png', description: 'Wing Chair' },
-  { id: 3, name: 'Wooden Chair', price: 40, image: '/images/Wooden Chair.png', description: 'Wooden Chair' },
+  { id: 3, name: 'Wooden Chair', price: 40, image: '/images/Wooden chair.png', description: 'Wooden Chair' },
   { id: 4, name: 'Dandy Chair', price: 30, image: '/images/Dandy Chair.png', description: 'Dandy Chair' },
  
 ];
